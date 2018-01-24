@@ -1,0 +1,29 @@
+Valhalla Diagnostic:
+Requested: 99 
+Successful: 99 
+Failed: 0 
+BiasIterFwd: 464.15 
+BiasIterBwd: 601.01 
+UnbiasIterFwd: 7457.08 
+UnbiasIterBwd: 8597.42
+_______________
+Routing:
+Requested: 5502 
+Successful: 5494 
+Failed: 8 
+Match pct: 84.86
+_______________
+Guidance:
+Total: 5494 
+Steps Failed Count: 806 
+Unnamed Start Count: 68 
+Unnamed Middle Count: 61 
+Unnamed Mid Short Count: 29 
+Unnamed Mid Medium Count: 13 
+_______________
+Angles:
+Total routes: 2199 
+Total turns compared: 11376 
+Mismatches: 155 
+
+
